@@ -1,0 +1,15 @@
+*.env
+.env*
+pxxl.env
+sub-*.txt
+*_qr.png
+xray
+web-worker
+xray.zip
+geoip.dat
+geosite.dat
+xray-config.json
+*.tar
+.DS_Store
+secrets/
+node_modules/
